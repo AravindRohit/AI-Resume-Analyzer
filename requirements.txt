@@ -8,3 +8,4 @@ reportlab>=4.2.5
 streamlit>=1.42.1
 python-dotenv>=1.2.2
 crewai==1.14.3
+litellm==1.83.14
