@@ -5,10 +5,26 @@
 
 ---
 
-## Demo
+## Live Demo
 
 > Deployment link 
-https://talentra.streamlit.app/
+**App**  
+[Open SmartResume AI](https://talentra.streamlit.app/)
+
+**Demo Videos**  
+[Watch Demo 1](https://drive.google.com/file/d/1YMe3dQ2UNHLHNlvxhEdeGjRKxMF1hBvH/view?usp=sharing)  
+[Watch Demo 2](https://drive.google.com/file/d/1yvdV8uP_1M3XAHQwE0tv4K4jZPqujsPm/view?usp=sharing)
+
+**Screenshots**
+![Demo 1](assets/image_1.jpg)
+![Demo 2](assets/image_2.jpg)
+![Demo 3](assets/image_3.jpg)
+![Demo 4](assets/image_4.jpg)
+![Demo 5](assets/image_5.jpg)
+![Demo 6](assets/image_6.jpg)
+![Demo 7](assets/image_7.jpg)
+![Demo 8](assets/image_8.jpg)
+![Demo 9](assets/image_9.jpg)
 
 ---
 
