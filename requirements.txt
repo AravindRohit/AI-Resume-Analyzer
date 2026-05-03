@@ -1,0 +1,10 @@
+PyMuPDF==1.26.3
+sentence-transformers==5.1.0
+torch>=2.0.0
+numpy>=1.26.4
+requests>=2.31.0
+groq>=0.37.1
+reportlab>=4.2.5
+streamlit>=1.42.1
+python-dotenv>=1.2.2
+crewai==1.14.3
