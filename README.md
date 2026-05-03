@@ -1,13 +1,14 @@
 # SmartResume AI – Resume Analyzer & Job Matcher
 
 > **AI Developer Intern Assignment** – Daivtech Solutions Pvt Ltd  
-> Built entirely with open-source tools + Groq LLaMA-3.3-70B local model
+> Developed using open-source technologies, leveraging Groq LLaMA-3.3-70B and CrewAI for agentic AI orchestration
 
 ---
 
 ## Demo
 
 > Deployment link 
+https://talentra.streamlit.app/
 
 ---
 
